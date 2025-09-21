@@ -67,7 +67,7 @@ Other professional/academic highlights:
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/emanuele-alberti-6a5a4a206/)  
 - [Hugging Face](https://huggingface.co/emaalberti)  
-- albertiemanuele1@gmail.com  
+- emanuelealberti1903@gmail.com 
 
 ---
 Feel free to explore my repositories and reach out if you’d like to collaborate!
