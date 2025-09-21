@@ -33,6 +33,26 @@ Other professional/academic highlights:
 
 ---
 
+## Skills
+
+### Programming Languages
+- Python  
+- C  
+- Java  
+- SQL  
+
+### Libraries / Frameworks used during these years
+- PyTorch, Scikit-learn  
+- Reinforcement Learning (GRPO, RLHF)  
+- Pandas, NumPy  
+- Matplotlib, Seaborn, Plotly  
+- Scipy  
+- Time Series Analysis  
+- Google Cloud Platform (GCP)  
+- Git, GitHub Actions, Docker  
+
+---
+
 ## Relevant Courses
 
 ### Software Engineering
@@ -67,8 +87,9 @@ Other professional/academic highlights:
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/emanuele-alberti-6a5a4a206/)  
 - [Hugging Face](https://huggingface.co/emaalberti)  
-- emanuelealberti1903@gmail.com 
+- albertiemanuele1@gmail.com  
 
 ---
 Feel free to explore my repositories and reach out if you’d like to collaborate!
+
 
