@@ -28,8 +28,8 @@ Here are some highlights of my academic, professional, and open-source work:
   These forks represent both my learning journey and extensions of my own projects.  
 
 Other professional/academic highlights:  
-- Automation Tool for Datapizza (2023) – Google Cloud app to automate candidate data extraction (Python + JS).  
-- Societal Impact of Ozempic (UIS Research, 2025) – Large-scale Reddit NLP analysis presented at the Italian Embassy.  
+- Automation Tool for Datapizza (2023) – Google Cloud app to automate candidate data extraction (Python + JS) --> Private Repo
+- Societal Impact of Ozempic (UIS Research, 2025) – Large-scale Reddit NLP analysis presented at the Italian Embassy --> Incoming...
 
 ---
 
