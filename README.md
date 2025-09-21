@@ -24,8 +24,7 @@ Here are some highlights of my academic, professional, and open-source work:
   Repository of assignments and projects from the Applied Statistics course.  
 
 - [Forked Projects](https://github.com/emaalberti?tab=repositories&type=fork)  
-  Contributed to and customized several open-source projects.  
-  These forks represent both my learning journey and extensions of my own projects.  
+  Projects I have worked on during these year with friends or classmates, or both :) 
 
 Other professional/academic highlights:  
 - Automation Tool for Datapizza (2023) – Google Cloud app to automate candidate data extraction (Python + JS) --> Private Repo
